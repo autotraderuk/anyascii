@@ -6,7 +6,7 @@
 
     <groupId>com.anyascii</groupId>
     <artifactId>anyascii-with-allowlist</artifactId>
-    <version>0.3.2.1</version>
+    <version>0.3.2.2-SNAPSHOT</version>
 
     <name>AnyAscii</name>
     <description>Unicode to ASCII transliteration</description>
