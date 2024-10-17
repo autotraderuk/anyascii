@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.anyascii</groupId>
-    <artifactId>anyascii</artifactId>
+    <artifactId>anyascii-with-allowlist</artifactId>
     <version>0.3.3-SNAPSHOT</version>
 
     <name>AnyAscii</name>
